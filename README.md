@@ -1,13 +1,3 @@
-# i maintain move to : https://github.com/oengine/laravel-module-plugin-theme-boilerplate
-
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
-# Laravel Boilerplate for AdminLTE Theme
-
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [Laravel Boilerplate](https://github.com/OpenHau/laravel-boilerplate).
-
-Youtube: https://www.youtube.com/watch?v=tk9CJU9W7BU
-
 Following things are ready to be used directly with AdminLTE Theme.
 
 - Auth(Signup,Login,Forgot Password,Password Reset)
@@ -48,19 +38,4 @@ Following things are ready to be used directly with AdminLTE Theme.
 6. Run `php artisan serve`
 7. Login account:
 - Supper Admin: hau@hau.xyz/123@123@1234
-
-Once everything is installed, you are ready to go with generator.
-
-see: https://hau.xyz
-
-## Vue 3 + bootstrap 5 + Bootstrap Icons: 
-
-https://github.com/devhau/hoya
-Contact: nguyenvanhaudev@gmail.com
-
-Donate:
-
-https://www.patreon.com/devhau
-
-http://paypal.me/haudev
 
